@@ -55,6 +55,6 @@ Estou constantemente resolvendo desafios de lógica, aprendendo novas tecnologia
 ## 📫 Onde me encontrar
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- 📬 E-mail: seu-email@gmail.com
+- 📬 E-mail: woldobest@gmail.com
 - 🔗 [Portfólio](https://seu-portfolio.github.io)
 
