@@ -36,7 +36,7 @@ Aplicação desenvolvida em Power Apps, integrada com SharePoint e Power Automat
 
 ### 🌐 Portfólio Pessoal  
 Site responsivo desenvolvido para apresentar meus projetos, habilidades e aprendizados nas áreas de desenvolvimento web, visualização de dados e design gráfico.  
-🔗 [Acessar portfólio](https://seu-portfolio.github.io)
+🔗 [Acessar portfólio](https://maestrowoldo.github.io/Portfolio/)
 
 ---
 
@@ -56,5 +56,5 @@ Estou constantemente resolvendo desafios de lógica, aprendendo novas tecnologia
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
 - 📬 E-mail: woldobest@gmail.com
-- 🔗 [Portfólio](https://seu-portfolio.github.io)
+- 🔗 [Portfólio](https://maestrowoldo.github.io/Portfolio/)
 
