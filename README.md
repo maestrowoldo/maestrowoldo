@@ -48,6 +48,17 @@ Estou constantemente resolvendo desafios de lógica, aprendendo novas tecnologia
 
 ## 📊 GitHub Stats
 
+📈 Atividade no GitHub (gráfico avançado)
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&theme=tokyonight" /> </p>
+📊 Estatísticas & Gráficos
+⭐ Minhas estatísticas gerais
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=maestrowoldo&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestrowoldo&layout=compact&theme=tokyonight" /> </p>
+🔥 Streak de contribuições
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=maestrowoldo&theme=tokyonight" /> </p>
+
+📊 Commits — Últimos 30 dias
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=maestrowoldo&theme=tokyo-night&area=true&hide_border=true" /> </p>
+
 ![Wolkendo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maestrowoldo&show_icons=true&theme=tokyonight)
 
 ---
