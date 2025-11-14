@@ -1,4 +1,4 @@
-# 🚀 Wolkendo Arias | Desenvolvedor em formação
+# 🚀 Wolkendo Arias | Desenvolvedor Full-Stack
 
 Olá! Sou apaixonado por tecnologia e criatividade, e encontrei no desenvolvimento uma forma de unir lógica, automação e design em soluções inteligentes. Tenho foco em **desenvolvimento web**, **inteligência de dados** e **plataformas low-code** como a Power Platform.
 
@@ -47,8 +47,6 @@ Estou constantemente resolvendo desafios de lógica, aprendendo novas tecnologia
 ---
 
 ## 📊 GitHub Stats
-
-📈 Atividade no GitHub (gráfico avançado)
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&theme=tokyonight" /> </p>
 📊 Estatísticas & Gráficos
 ⭐ Minhas estatísticas gerais
