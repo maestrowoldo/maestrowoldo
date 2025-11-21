@@ -1,69 +1,109 @@
-# 🚀 Wolkendo Arias | Desenvolvedor Full-Stack
+## <p align="center"> Wolkendo Arias | Desenvolvedor Full-Stack & Low-Code Engineer 
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&theme=tokyonight" /> </p>
 
-Olá! Sou apaixonado por tecnologia e criatividade, e encontrei no desenvolvimento uma forma de unir lógica, automação e design em soluções inteligentes. Tenho foco em **desenvolvimento web**, **inteligência de dados** e **plataformas low-code** como a Power Platform.
+## Sobre mim
 
----
+Sou apaixonado por tecnologia, criatividade e construção de soluções inteligentes. Minha jornada passa por desenvolvimento web, automação, análise de dados, modelagem de processos e criação de interfaces acessíveis. Gosto de unir lógica, design e eficiência — sempre com foco em entregar valor real.
 
-## 🧑‍💻 Sobre mim
+🎓 Graduando em Ciência da Computação
 
-Minha jornada é marcada pela adaptação, curiosidade e desejo constante de aprender. Fluente em **francês, crioulo haitiano e português**, uso minha experiência multicultural e minhas habilidades técnicas para entregar soluções eficientes e acessíveis.
+🌍 Fluente em francês, crioulo haitiano e português
 
-Atualmente curso **Ciência da Computação** e venho desenvolvendo projetos nas áreas de:
-- **Desenvolvimento Web** (HTML, CSS, JavaScript, Node.js)
-- **Automação e Low-Code** (Power Apps, Power Automate, SharePoint)
-- **Inteligência de Dados** (Power BI)
-- **Design Gráfico** (Adobe Photoshop, Illustrator, Premiere)
-- **Modelagem de Processos** (Bizagi)
+💼 Experiência em Power Platform, desenvolvimento web, automação e dados
 
-Sou autodidata, detalhista e movido por desafios que exigem raciocínio, organização e criatividade.
+🎨 Background forte em design visual
 
----
+🚀 Sempre aprendendo, criando e evoluindo
 
 ## 🛠️ Tecnologias & Ferramentas
 
-`HTML5` · `CSS3` · `JavaScript` · `Node.js` · `Express.js`  
-`Power Apps` · `Power Automate` · `SharePoint` · `Power BI`  
-`Git` · `GitHub Pages` · `Bizagi`  
-`Photoshop` · `Illustrator` · `Premiere Pro`
+### **Front-end**
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="48" />
+</div>
 
 ---
 
-## 💡 Projetos em destaque
-
-### 📱 AppPonto – Aplicativo Interno de Ponto e Estagiários  
-Aplicação desenvolvida em Power Apps, integrada com SharePoint e Power Automate. Permite o registro de ponto, controle de jornada e gerenciamento de dados de estagiários, com interface responsiva e automações internas.  
-🔗 *Em ambiente corporativo interno (não público)*
-
-### 🌐 Portfólio Pessoal  
-Site responsivo desenvolvido para apresentar meus projetos, habilidades e aprendizados nas áreas de desenvolvimento web, visualização de dados e design gráfico.  
-🔗 [Acessar portfólio](https://maestrowoldo.github.io/Portfolio/)
+### **Back-end**
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" />                  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
+</div>
 
 ---
 
-## 🧩 Desafios e aprendizado contínuo
+### **Banco de Dados**
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="48" />
+</div>
 
+---
+
+### **QA, Testes & DevOps**
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="48" />
+  <img src="https://skillicons.dev/icons?i=postman" height="48" />
+  <img src="https://skillicons.dev/icons?i=swagger" height="48" />
+  <img src="https://skillicons.dev/icons?i=sonarqube" height="48" />
+</div>
+
+---
+
+---
+
+### **Cloud**
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=aws" height="48" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="48" />
+  <img src="https://skillicons.dev/icons?i=azure" height="48" />
+</div>
+
+---
+
+### **Design**
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="48" />
+  <img src="https://skillicons.dev/icons?i=pr" height="48" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" />
+</div>
+
+## 💡 Projetos em destaque ### 
+📱 AppPonto – Aplicativo Interno de Ponto e Estagiários Aplicação desenvolvida em Power Apps, integrada com SharePoint e Power Automate. Permite o registro de ponto, controle de jornada e gerenciamento de dados de estagiários, com interface responsiva e automações internas. 
+🔗 *Em ambiente corporativo interno (não público)* 
+
+### 🌐 Portfólio Pessoal 
+
+Site responsivo desenvolvido para apresentar meus projetos, habilidades e aprendizados nas áreas de desenvolvimento web, visualização de dados e design gráfico. 
+
+🔗 [Acessar portfólio](https://maestrowoldo.github.io/Portfolio/) 
+
+--- 
+## 🧩 Desafios e aprendizado contínuo 
 Estou constantemente resolvendo desafios de lógica, aprendendo novas tecnologias e aplicando conceitos em projetos práticos. Também participo de capacitações e cursos voltados à análise de dados e desenvolvimento full stack.
 
----
+--- 
+📊 Estatísticas do GitHub
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=maestrowoldo&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestrowoldo&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=maestrowoldo&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=maestrowoldo&theme=tokyo-night&area=true&hide_border=true" /> </p>
 
-## 📊 GitHub Stats
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&theme=tokyonight" /> </p>
-📊 Estatísticas & Gráficos
-⭐ Minhas estatísticas gerais
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=maestrowoldo&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestrowoldo&layout=compact&theme=tokyonight" /> </p>
-🔥 Streak de contribuições
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=maestrowoldo&theme=tokyonight" /> </p>
+## Onde me encontrar
 
-📊 Commits — Últimos 30 dias
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=maestrowoldo&theme=tokyo-night&area=true&hide_border=true" /> </p>
+- 🌐 LinkedIn: https://www.linkedin.com/in/wolkendo-arias
 
-![Wolkendo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maestrowoldo&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Onde me encontrar
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
 - 📬 E-mail: woldobest@gmail.com
-- 🔗 [Portfólio](https://maestrowoldo.github.io/Portfolio/)
 
+- 🔗 [Portfólio](https://maestrowoldo.github.io/Portfolio/)
