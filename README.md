@@ -101,10 +101,37 @@ Estou constantemente resolvendo desafios de lógica, aprendendo novas tecnologia
 📊 Estatísticas do GitHub
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=maestrowoldo&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestrowoldo&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=maestrowoldo&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=maestrowoldo&theme=tokyo-night&area=true&hide_border=true" /> </p>
 
-## Onde me encontrar
 
-- LinkedIn: https://www.linkedin.com/in/wolkendo-arias
+## Contact Me
 
-- E-mail: woldobest@gmail.com
+📨 **Let's Get Connected:**
 
-- [Portfólio](https://maestrowoldo.github.io/Portfolio/)
+
+<p align="center" style="display: flex; gap: 12px; flex-wrap: wrap;">
+
+  <!-- Gmail -->
+  [![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wolkendo-arias) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuPerfil) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/seuPerfil)
+  
+  <!-- LinkedIn -->
+
+  
+  <!-- Instagram -->
+  
+  
+  <!-- Facebook -->
+  
+
+</p>
+
+**Meu portfolio:**
+<!-- Portfolio -->
+<a href="https://maestrowoldo.github.io/Portfolio/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/portfolio.png" width="48" height="48" alt="Portfolio"/>
+</a>
+
+
+ 
+
+
+
+
