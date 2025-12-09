@@ -1,4 +1,6 @@
 ## <p align="center"> Wolkendo Arias | Desenvolvedor Full-Stack & Low-Code Engineer 
+## <p align="center">  ![Profile Views](https://komarev.com/ghpvc/?username=maestrowoldo&color=blueviolet) ![GitHub Followers](https://img.shields.io/github/followers/maestrowoldo?label=Seguidores&style=flat&color=blue)
+
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&theme=tokyonight" /> </p>
 
 ## Sobre mim
