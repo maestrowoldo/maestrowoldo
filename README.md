@@ -63,7 +63,6 @@ Sou apaixonado por tecnologia, criatividade e construção de soluções intelig
   <img src="https://skillicons.dev/icons?i=sonarqube" height="48" />
 </div>
 
----
 
 ---
 
@@ -84,18 +83,18 @@ Sou apaixonado por tecnologia, criatividade e construção de soluções intelig
   <img src="https://skillicons.dev/icons?i=figma" height="48" />
 </div>
 
-## 💡 Projetos em destaque ### 
-📱 AppPonto – Aplicativo Interno de Ponto e Estagiários Aplicação desenvolvida em Power Apps, integrada com SharePoint e Power Automate. Permite o registro de ponto, controle de jornada e gerenciamento de dados de estagiários, com interface responsiva e automações internas. 
+## Projetos em destaque ### 
+AppPonto – Aplicativo Interno de Ponto e Estagiários Aplicação desenvolvida em Power Apps, integrada com SharePoint e Power Automate. Permite o registro de ponto, controle de jornada e gerenciamento de dados de estagiários, com interface responsiva e automações internas. 
 🔗 *Em ambiente corporativo interno (não público)* 
 
-### 🌐 Portfólio Pessoal 
+### Portfólio Pessoal 
 
 Site responsivo desenvolvido para apresentar meus projetos, habilidades e aprendizados nas áreas de desenvolvimento web, visualização de dados e design gráfico. 
 
 🔗 [Acessar portfólio](https://maestrowoldo.github.io/Portfolio/) 
 
 --- 
-## 🧩 Desafios e aprendizado contínuo 
+## Desafios e aprendizado contínuo 
 Estou constantemente resolvendo desafios de lógica, aprendendo novas tecnologias e aplicando conceitos em projetos práticos. Também participo de capacitações e cursos voltados à análise de dados e desenvolvimento full stack.
 
 --- 
@@ -104,8 +103,8 @@ Estou constantemente resolvendo desafios de lógica, aprendendo novas tecnologia
 
 ## Onde me encontrar
 
-- 🌐 LinkedIn: https://www.linkedin.com/in/wolkendo-arias
+- LinkedIn: https://www.linkedin.com/in/wolkendo-arias
 
-- 📬 E-mail: woldobest@gmail.com
+- E-mail: woldobest@gmail.com
 
-- 🔗 [Portfólio](https://maestrowoldo.github.io/Portfolio/)
+- [Portfólio](https://maestrowoldo.github.io/Portfolio/)
