@@ -130,8 +130,6 @@ Estou constantemente resolvendo desafios de lógica, aprendendo novas tecnologia
 </a>
 
 
- 
-
 
 
 
