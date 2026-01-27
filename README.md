@@ -36,7 +36,6 @@ Sou apaixonado por tecnologia, criatividade e construção de soluções intelig
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" />                  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
 </div>
 
@@ -70,7 +69,6 @@ Sou apaixonado por tecnologia, criatividade e construção de soluções intelig
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=aws" height="48" />
   <img src="https://skillicons.dev/icons?i=vercel" height="48" />
-  <img src="https://skillicons.dev/icons?i=azure" height="48" />
 </div>
 
 ---
