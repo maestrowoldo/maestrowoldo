@@ -1,4 +1,4 @@
-## <p align="center"> Wolkendo Arias | Desenvolvedor Full-Stack & Low-Code Engineer 
+## <p align="center"> Wolkendo Arias | Desenvolvedor Full-Stack 
 ## <p align="center">  ![Profile Views](https://komarev.com/ghpvc/?username=maestrowoldo&color=blueviolet) [![wakatime](https://wakatime.com/badge/user/c6c3372f-9877-4771-84f7-3b837d103d9b/project/ec419981-2e6f-4630-850d-0d80ed2ab1b7.svg)](https://wakatime.com/badge/user/c6c3372f-9877-4771-84f7-3b837d103d9b/project/ec419981-2e6f-4630-850d-0d80ed2ab1b7)</p>
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&theme=tokyonight" /> </p>
