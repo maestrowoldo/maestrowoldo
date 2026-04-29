@@ -51,7 +51,6 @@ Possuo vivência complementar em **análise de dados e Business Intelligence (Po
 - Testes automatizados (Vitest / Jest)  
 - Docker e containerização  
 - CI/CD com GitHub Actions  
-- Deploy em AWS (ECR, IAM, OIDC)  
 - Integração com serviços externos  
 
 ---
