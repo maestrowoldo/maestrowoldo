@@ -1,12 +1,21 @@
-## <p align="center">Wolkendo Arias | Desenvolvedor Full Stack</p>
+## <p align="center"> Wolkendo Arias</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maestrowoldo&color=blueviolet" />
-  <a href="https://wakatime.com/@c6c3372f-9877-4771-84f7-3b837d103d9b"><img src="https://wakatime.com/badge/user/c6c3372f-9877-4771-84f7-3b837d103d9b.svg" alt="Total time coded since Dec 9 2025" /></a>
+<strong>Full Stack Developer | JavaScript • TypeScript • React • Node.js</strong>
+</p>
+<p align="center">
+Construindo aplicações escaláveis do código ao deploy
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maestrowoldo&color=blueviolet" />
+  <a href="https://wakatime.com/@c6c3372f-9877-4771-84f7-3b837d103d9b">
+    <img src="https://wakatime.com/badge/user/c6c3372f-9877-4771-84f7-3b837d103d9b.svg" />
+  </a>
+</p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&theme=tokyonight" />
 </p>
+
 
 ---
 
