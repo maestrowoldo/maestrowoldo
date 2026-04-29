@@ -35,6 +35,27 @@ Possuo vivência complementar em **análise de dados e Business Intelligence (Po
 
 ---
 
+## 💻 Stack Principal
+
+- JavaScript / TypeScript  
+- React / Next.js  
+- Node.js / Express  
+- PostgreSQL  
+
+---
+
+## ⚙️ Backend & DevOps
+
+- APIs REST com Node.js e TypeScript  
+- Validação de dados e regras de negócio  
+- Testes automatizados (Vitest / Jest)  
+- Docker e containerização  
+- CI/CD com GitHub Actions  
+- Deploy em AWS (ECR, IAM, OIDC)  
+- Integração com serviços externos  
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 ### **Front-end**
