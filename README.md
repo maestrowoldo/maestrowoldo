@@ -131,7 +131,7 @@ Aplicação interna desenvolvida com **Power Apps**, integrada ao **SharePoint**
 ### **Portfólio Pessoal**
 Site responsivo desenvolvido com **React, Next.js e TypeScript**, focado em apresentar projetos, habilidades técnicas e evolução profissional, com atenção a performance, animações e UX.
 
-🔗[Link do Portólio 👈](https://work-samples-labs.vercel.app/)
+🔗[Link do Portólio 👈](https://wolkendo.dev/)
 
 ---
 
