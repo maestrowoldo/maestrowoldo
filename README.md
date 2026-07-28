@@ -41,6 +41,14 @@ PERSONALIZATION CHECKLIST
 
 </div>
 
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&amp;theme=tokyonight" alt="Wolkendo Arias's GitHub contribution summary" />
+
+
+</div>
+
 ---
 
 ## Profile
@@ -198,18 +206,6 @@ I am most effective in work that requires both technical execution and product j
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&amp;theme=tokyonight" alt="Wolkendo Arias's GitHub contribution summary" />
-
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maestrowoldo&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7AA2F7&amp;text_color=A9B1D6&amp;icon_color=BB9AF7" alt="Wolkendo Arias's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestrowoldo&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7AA2F7&amp;text_color=A9B1D6" alt="Most-used languages in Wolkendo Arias's public GitHub repositories" />
-</p>
-
-</div>
 
 > Language statistics reflect public repository composition and do not represent overall proficiency.
 
