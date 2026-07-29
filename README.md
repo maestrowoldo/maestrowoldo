@@ -14,7 +14,11 @@
 </p>
 
 <p>
-  <a href="https://wolkendo.dev/en"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=67E8F9" alt="View Wolkendo Arias's portfolio"></a>&nbsp;<a href="https://www.linkedin.com/in/wolkendo-arias"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-111827?style=for-the-badge&amp;logo=linkedin&amp;logoColor=67E8F9" alt="Connect with Wolkendo Arias on LinkedIn"></a>&nbsp;<a href="mailto:maestrowoldo97@gmail.com"><img src="https://img.shields.io/badge/SEND_AN_EMAIL-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=F472B6" alt="Email Wolkendo Arias"></a>
+  <a href="https://wolkendo.dev/en"><strong>View portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/wolkendo-arias"><strong>Connect on LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:maestrowoldo97@gmail.com"><strong>Send an email</strong></a>
 </p>
 
 <p>
@@ -60,7 +64,9 @@ My background in **automation, Business Intelligence, and visual design** helps 
 </a>
 
 <p align="center">
-  <a href="https://nexochat.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_APP-0891B2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open the live NexoChat application"></a>&nbsp;<img src="https://img.shields.io/badge/SOURCE_PRIVATE-334155?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="NexoChat source repository is private">
+  <a href="https://nexochat.vercel.app/"><strong>Open live app</strong></a>
+  &nbsp;·&nbsp;
+  <strong>Source private</strong>
 </p>
 
 <p align="center"><sub>Animation unavailable? <a href="./assets/nexochat-preview.png">Open the static preview</a>.</sub></p>
@@ -107,27 +113,7 @@ An internal time-tracking solution developed during my internship at the São Pa
 
 <img src="./assets/toolkit-flow.svg" width="100%" alt="Animated workflow connecting interfaces, APIs and data, quality and delivery, and automation">
 
-<br>
-
-<p align="center">
-  <strong>Interfaces and product</strong><br><br>
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript">&nbsp;<img src="https://img.shields.io/badge/React-111827?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">&nbsp;<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js">&nbsp;<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&amp;logo=tailwindcss&amp;logoColor=06B6D4" alt="Tailwind CSS">&nbsp;<img src="https://img.shields.io/badge/Figma-111827?style=flat-square&amp;logo=figma&amp;logoColor=F24E1E" alt="Figma">
-</p>
-
-<p align="center">
-  <strong>APIs and data</strong><br><br>
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js">&nbsp;<img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" alt="REST APIs">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL">&nbsp;<img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&amp;logo=prisma&amp;logoColor=FFFFFF" alt="Prisma">&nbsp;<img src="https://img.shields.io/badge/Zod-111827?style=flat-square&amp;logo=zod&amp;logoColor=3E67B1" alt="Zod">
-</p>
-
-<p align="center">
-  <strong>Quality and delivery</strong><br><br>
-  <img src="https://img.shields.io/badge/Vitest-111827?style=flat-square&amp;logo=vitest&amp;logoColor=6E9F18" alt="Vitest">&nbsp;<img src="https://img.shields.io/badge/Jest-111827?style=flat-square&amp;logo=jest&amp;logoColor=C21325" alt="Jest">&nbsp;<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker">&nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&amp;logo=githubactions&amp;logoColor=2088FF" alt="GitHub Actions">&nbsp;<img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&amp;logo=vercel&amp;logoColor=FFFFFF" alt="Vercel">&nbsp;<img src="https://img.shields.io/badge/AWS-111827?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=FF9900" alt="AWS">
-</p>
-
-<p align="center">
-  <strong>Automation and insights</strong><br><br>
-  <img src="https://img.shields.io/badge/Power_Apps-111827?style=flat-square&amp;logo=powerapps&amp;logoColor=742774" alt="Power Apps">&nbsp;<img src="https://img.shields.io/badge/Power_Automate-111827?style=flat-square&amp;logo=powerautomate&amp;logoColor=0066FF" alt="Power Automate">&nbsp;<img src="https://img.shields.io/badge/SharePoint-111827?style=flat-square&amp;logo=microsoftsharepoint&amp;logoColor=038387" alt="SharePoint">&nbsp;<img src="https://img.shields.io/badge/Power_BI-111827?style=flat-square&amp;logo=powerbi&amp;logoColor=F2C811" alt="Power BI">
-</p>
+<p align="center"><sub>One connected toolkit across product, engineering, delivery, and operations.</sub></p>
 
 ---
 
@@ -148,17 +134,24 @@ An internal time-tracking solution developed during my internship at the São Pa
 
 ## GitHub activity
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Profile reach</strong><br><br>
+      <img src="https://komarev.com/ghpvc/?username=maestrowoldo&amp;label=Profile%20views&amp;color=1A1B27&amp;style=flat-square" alt="Profile view counter">
+    </td>
+    <td width="50%" align="center">
+      <strong>Coding activity</strong><br><br>
+      <a href="https://wakatime.com/@c6c3372f-9877-4771-84f7-3b837d103d9b"><img src="https://wakatime.com/badge/user/c6c3372f-9877-4771-84f7-3b837d103d9b.svg" alt="WakaTime coding activity badge"></a>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=maestrowoldo&amp;label=Profile%20views&amp;color=1A1B27&amp;style=flat-square" alt="Profile view counter" />&nbsp;<a href="https://wakatime.com/@c6c3372f-9877-4771-84f7-3b837d103d9b"><img src="https://wakatime.com/badge/user/c6c3372f-9877-4771-84f7-3b837d103d9b.svg" alt="WakaTime coding activity badge" /></a>
+<p align="center">
+  <a href="https://github.com/maestrowoldo">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&amp;theme=tokyonight" alt="Wolkendo Arias's GitHub contribution summary">
+  </a>
 </p>
-
-<a href="https://github.com/maestrowoldo">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&amp;theme=tokyonight" alt="Wolkendo Arias's GitHub contribution summary">
-</a>
-
-</div>
 
 ---
 
