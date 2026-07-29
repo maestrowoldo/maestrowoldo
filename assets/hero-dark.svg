@@ -89,20 +89,20 @@
         <tspan x="326" fill="url(#titleGradient)">ARIAS</tspan>
       </text>
       <text x="1" y="140" fill="#CBD5E1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="500">I design and ship digital products that hold up in production.</text>
-      <text x="1" y="168" fill="#64748B" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13.5">Interfaces, business logic, data, integrations, testing, and deployment.</text>
+      <text x="1" y="168" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13.5">Interfaces, business logic, data, integrations, testing, and deployment.</text>
 
       <g transform="translate(0 198)">
         <rect width="556" height="58" rx="14" fill="#020617" stroke="#334155" stroke-opacity=".85"/>
         <circle cx="22" cy="18" r="4" fill="#FB7185"/>
         <circle cx="36" cy="18" r="4" fill="#FBBF24"/>
         <circle cx="50" cy="18" r="4" fill="#34D399"/>
-        <text x="22" y="42" fill="#64748B" font-family="Consolas, SFMono-Regular, monospace" font-size="12">$</text>
+        <text x="22" y="42" fill="#94A3B8" font-family="Consolas, SFMono-Regular, monospace" font-size="12">$</text>
         <text x="39" y="42" fill="#E2E8F0" font-family="Consolas, SFMono-Regular, monospace" font-size="12">build --with clarity --ship reliably</text>
         <rect class="type-cover" x="39" y="29" width="270" height="17" fill="#020617"/>
         <rect class="cursor" x="304" y="31" width="7" height="14" rx="1" fill="#67E8F9"/>
       </g>
 
-      <text x="1" y="294" fill="#64748B" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">DISCOVER  ·  DESIGN  ·  BUILD  ·  SHIP</text>
+      <text x="1" y="294" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">DISCOVER  ·  DESIGN  ·  BUILD  ·  SHIP</text>
     </g>
 
     <g transform="translate(726 38)" filter="url(#shadow)">
@@ -125,7 +125,7 @@
         <circle r="43" fill="#07111F" stroke="url(#coreGradient)" stroke-width="2"/>
         <circle r="34" fill="url(#coreGradient)" fill-opacity=".12"/>
         <text x="0" y="5" text-anchor="middle" fill="#E0F2FE" font-family="Consolas, SFMono-Regular, monospace" font-size="20" font-weight="700">&lt;/&gt;</text>
-        <text x="0" y="23" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="7.5" font-weight="700" letter-spacing="1.2">FULL STACK</text>
+        <text x="0" y="23" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="7.5" font-weight="700" letter-spacing="1.2">FULL STACK</text>
         </g>
       </g>
 
@@ -160,7 +160,7 @@
 
       <g transform="translate(24 18)">
         <circle cx="4" cy="4" r="4" fill="#34D399"/>
-        <text x="16" y="8" fill="#64748B" font-family="Consolas, SFMono-Regular, monospace" font-size="8.5" letter-spacing="1.25">PRODUCT SYSTEM / ONLINE</text>
+        <text x="16" y="8" fill="#94A3B8" font-family="Consolas, SFMono-Regular, monospace" font-size="8.5" letter-spacing="1.25">PRODUCT SYSTEM / ONLINE</text>
       </g>
     </g>
     <rect x=".75" y=".75" width="1198.5" height="358.5" rx="27.25" stroke="#67E8F9" stroke-opacity=".14" stroke-width="1.5"/>

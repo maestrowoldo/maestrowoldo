@@ -1,55 +1,36 @@
 <div align="center">
 
 <picture>
+  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg">
+  <source media="(max-width: 640px) and (prefers-color-scheme: light)" srcset="./assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-dark.svg" width="100%" alt="Wolkendo Arias, product-minded full-stack developer building interfaces, APIs, realtime systems, and reliable delivery">
+  <img src="./assets/hero-dark.svg" width="100%" alt="Wolkendo Arias, full-stack developer building interfaces, APIs, real-time systems, and reliable delivery">
 </picture>
 
-<br>
+<h1>Full-Stack Developer building production-ready web products</h1>
 
 <p>
-  <strong>Full-Stack Developer at Prime Secure</strong><br>
-  Building purposeful web products from interface and business logic to data, integrations, testing, and deployment.
+  <strong>Wolkendo Arias · Full-Stack Developer at Prime Secure</strong>
 </p>
 
 <p>
-  <a href="https://wolkendo.dev/en"><strong>View portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/wolkendo-arias"><strong>Connect on LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:maestrowoldo97@gmail.com"><strong>Send an email</strong></a>
+  I take products from interface and business logic to data, integrations, testing, and deployment.
 </p>
 
 <p>
-  <a href="#selected-work"><strong>Selected work</strong></a>
-  &nbsp;·&nbsp;
-  <a href="#core-toolkit"><strong>Core toolkit</strong></a>
-  &nbsp;·&nbsp;
-  <a href="#experience-at-a-glance"><strong>Experience</strong></a>
-  &nbsp;·&nbsp;
-  <a href="#lets-build-something-useful"><strong>Contact</strong></a>
+  <strong>São Paulo, Brazil</strong> · Available for remote opportunities worldwide
 </p>
 
-<sub>São Paulo, Brazil · Portuguese and French</sub>
+<p>
+  <a href="https://wolkendo.dev/en"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/wolkendo-arias"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:maestrowoldo97@gmail.com"><strong>Email</strong></a>
+</p>
 
 </div>
-
----
-
-## Product-minded engineering, end to end
-
-I am a **Full-Stack Developer** with a bachelor's degree in Computer Science. I turn business context into maintainable software that people can use confidently and teams can evolve without friction.
-
-My core stack is **TypeScript, React, Next.js, Node.js, and PostgreSQL**. I work across the product lifecycle:
-
-- **Product interfaces** — responsive, accessible experiences with clear interaction and visual intent.
-- **Backend systems** — APIs, relational data, authentication, validation, and third-party integrations.
-- **Reliable delivery** — automated testing, quality gates, secure configuration, and production deployment.
-
-My background in **automation, Business Intelligence, and visual design** helps me connect engineering choices with user experience and real operational needs.
-
-> I build the product, not just the screen.
 
 ---
 
@@ -57,40 +38,40 @@ My background in **automation, Business Intelligence, and visual design** helps 
 
 ### NexoChat — Private conversations across languages
 
-**NexoChat** is a responsive 1:1 messaging platform where each participant can write and receive messages in their preferred language. It brings private conversations, automatic translation, online presence, delivery states, read states, and bilingual history into one focused experience.
+[NexoChat](https://nexochat.vercel.app/) is a responsive one-to-one messaging product that lets each participant write and receive messages in their preferred language. I designed and implemented the experience end to end, from product flows and real-time behavior to security, data, integrations, tests, and deployment.
 
 <a href="https://nexochat.vercel.app/">
-  <img src="./assets/nexochat-demo.gif" width="100%" alt="Animated demonstration of the public NexoChat experience, including its private messaging and automatic translation interface">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/nexochat-preview.png">
+    <img src="./assets/nexochat-demo.gif" width="100%" alt="NexoChat demonstration showing private messaging, automatic translation, presence, and message status">
+  </picture>
 </a>
 
 <p align="center">
-  <a href="https://nexochat.vercel.app/"><strong>Open live app</strong></a>
-  &nbsp;·&nbsp;
-  <strong>Source private</strong>
+  <sub>The demo shows a Portuguese interface with Portuguese-to-English translation. A static preview is used when reduced motion is preferred.</sub>
 </p>
-
-<p align="center"><sub>Animation unavailable? <a href="./assets/nexochat-preview.png">Open the static preview</a>.</sub></p>
 
 **Engineering highlights**
 
-- Real-time messaging and presence with **Ably**, using backend-issued authentication.
-- Automatic language detection and translation through the **DeepL API**.
-- Signed **JWTs in HttpOnly cookies**, CSRF protection, route guards, and IP rate limiting.
-- Shared client/server validation with **Zod**, relational persistence with **PostgreSQL and Prisma**, and password hashing with **bcrypt**.
-- Media management with **Cloudinary**, transactional email with **Resend**, and secrets management with **Infisical**.
-- GitHub Actions quality gates controlling preview and production deployments on **Vercel**.
+- Built real-time messaging, online presence, delivery states, and read states with Ably and backend-issued authentication.
+- Added automatic language detection and translation through the DeepL API while preserving the original and translated message history.
+- Secured the application with signed JWTs in HttpOnly cookies, CSRF protection, route guards, password hashing, and IP rate limiting.
+- Modeled relational data with PostgreSQL and Prisma, with shared client/server validation through Zod.
+- Integrated Cloudinary for media and Resend for transactional email, with secrets managed through Infisical.
+- Established automated quality gates in GitHub Actions for tested preview and production deployments on Vercel.
 
-`Next.js 16` · `TypeScript` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `Ably` · `DeepL` · `Cloudinary` · `Resend`
+**Stack:** Next.js 16, TypeScript, PostgreSQL, Prisma, Tailwind CSS, Ably, DeepL, Cloudinary, Resend
+
+**[Open the live product →](https://nexochat.vercel.app/)** · Source code is private
 
 ---
 
-### Personal Portfolio — Engineering through clear storytelling
+### Personal Portfolio — Professional storytelling through product design
 
-A multilingual portfolio presenting my experience, delivery process, and selected work through a responsive, motion-led interface.
+A multilingual portfolio that presents my experience, delivery process, and selected work through a responsive and accessible interface.
 
-- **Focus:** professional positioning, project storytelling, accessibility, performance, and responsive UX.
-- **Built with:** Next.js, React, TypeScript, Tailwind CSS, and Framer Motion.
-- **My role:** product direction, visual design, development, content structure, and deployment.
+**Contribution:** Product direction, visual design, front-end development, content architecture, performance, and deployment<br>
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion
 
 **[Explore the portfolio →](https://wolkendo.dev/en)**
 
@@ -100,75 +81,66 @@ A multilingual portfolio presenting my experience, delivery process, and selecte
 
 An internal time-tracking solution developed during my internship at the São Paulo Court of Justice. It standardized attendance records, simplified operational follow-up, and connected reporting with automated communication.
 
-- **Capabilities:** entry and exit records, work-mode tracking, management filters, Power BI reporting, and automated email notifications.
-- **Built with:** Power Apps, SharePoint, Power Automate, Power BI, and Microsoft 365.
-- **My contribution:** requirements analysis, application development, integrations, business rules, UI design, validation, and documentation.
-- **Availability:** public case documentation and screenshots; the original corporate application is not distributed.
+**Contribution:** Requirements analysis, application development, business rules, integrations, UI design, validation, and documentation<br>
+**Stack:** Power Apps, SharePoint, Power Automate, Power BI, Microsoft 365<br>
+**Availability:** Public case documentation and screenshots; the original corporate application is not distributed
 
-**[View the documented case →](https://github.com/maestrowoldo/Aplicativo---Ponto---Power-Apps)**
-
----
-
-## Core toolkit
-
-<img src="./assets/toolkit-flow.svg" width="100%" alt="Animated workflow connecting interfaces, APIs and data, quality and delivery, and automation">
-
-<p align="center"><sub>One connected toolkit across product, engineering, delivery, and operations.</sub></p>
+**[View the documented case →](https://github.com/maestrowoldo/Registro-de-Ponto)**
 
 ---
 
-## Experience at a glance
+## Core capabilities
 
-| Period | Role | Focus |
-|---|---|---|
-| **Nov 2025 — Present** | **Full-Stack Developer · Prime Secure** | React and Next.js interfaces, Node.js APIs, relational data, validation, testing, and deployment. |
-| **Sep 2025 — Nov 2025** | **IT Support Analyst · DXC Technology** | Onboarding, offboarding, hardware and software support, and infrastructure operations. |
-| **Sep 2024 — Sep 2025** | **IT Intern · São Paulo Court of Justice** | Process automation, Power Platform applications, Power BI, SharePoint, and Bizagi. |
+- **Interfaces & product:** TypeScript, React, Next.js, Tailwind CSS, responsive UI, accessibility, interaction design, and Figma.
+- **APIs & data:** Node.js, REST APIs, PostgreSQL, Prisma, authentication, third-party integrations, and Zod validation.
+- **Quality & delivery:** Vitest, Jest, GitHub Actions, Docker, Vercel, AWS, secure configuration, and production deployment.
+- **Automation & insights:** Power Apps, Power Automate, SharePoint, Power BI, workflow design, and operational reporting.
 
-<p>
-  <strong>Education:</strong> Bachelor's degree in Computer Science<br>
-  <strong>Languages:</strong> Portuguese and French
-</p>
+My background across software engineering, automation, Business Intelligence, and visual design helps me connect technical decisions with user experience and business needs.
 
 ---
 
-## GitHub activity
+## Experience
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <strong>Profile reach</strong><br><br>
-      <img src="https://komarev.com/ghpvc/?username=maestrowoldo&amp;label=Profile%20views&amp;color=1A1B27&amp;style=flat-square" alt="Profile view counter">
-    </td>
-    <td width="50%" align="center">
-      <strong>Coding activity</strong><br><br>
-      <a href="https://wakatime.com/@c6c3372f-9877-4771-84f7-3b837d103d9b"><img src="https://wakatime.com/badge/user/c6c3372f-9877-4771-84f7-3b837d103d9b.svg" alt="WakaTime coding activity badge"></a>
-    </td>
-  </tr>
-</table>
+**Full-Stack Developer · Prime Secure**<br>
+*November 2025 — Present*<br>
+Building React and Next.js interfaces, Node.js APIs, relational data flows, validation, automated tests, and production delivery.
 
-<p align="center">
-  <a href="https://github.com/maestrowoldo">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&amp;theme=tokyonight" alt="Wolkendo Arias's GitHub contribution summary">
-  </a>
-</p>
+**IT Support Analyst · DXC Technology**<br>
+*September 2025 — November 2025*<br>
+Supported onboarding, offboarding, hardware, software, and infrastructure operations in an enterprise environment.
+
+**IT Intern · São Paulo Court of Justice**<br>
+*September 2024 — September 2025*<br>
+Developed process automation, Power Platform applications, Power BI reporting, SharePoint solutions, and Bizagi workflows.
+
+---
+
+## Education and languages
+
+**Bachelor's degree in Computer Science**<br>
+Universidade Cruzeiro do Sul · Completed December 2025
+
+**Languages**
+
+- French and Haitian Creole — Native
+- Portuguese — Fluent
+- English — Intermediate
 
 ---
 
 <div align="center">
 
-## Let's build something useful
-
-Have a web product, API, integration, or workflow to build? I am open to conversations about **full-stack development, automation, and technical collaboration**.
+<h2>Open to full-stack opportunities</h2>
 
 <p>
-  <a href="mailto:maestrowoldo97@gmail.com"><strong>Email me</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/wolkendo-arias"><strong>Connect on LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://wolkendo.dev/en"><strong>View my portfolio</strong></a>
+  I welcome conversations with recruiters and engineering teams hiring for remote full-stack roles worldwide, especially where product thinking, reliable systems, and end-to-end ownership matter.
 </p>
 
-<sub>Clear interfaces · Maintainable systems · Reliable delivery</sub>
+<p>
+  <a href="mailto:maestrowoldo97@gmail.com"><strong>Start a conversation by email</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/wolkendo-arias"><strong>Connect on LinkedIn</strong></a>
+</p>
 
 </div>
