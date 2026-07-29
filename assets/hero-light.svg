@@ -1,115 +1,168 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
-  <title id="title">Wolkendo Arias — Full-Stack Developer</title>
-  <desc id="description">Animated technical banner representing interfaces, APIs, real-time systems, and reliable delivery.</desc>
+  <title id="title">Wolkendo Arias — Product-minded Full-Stack Developer</title>
+  <desc id="description">Modern animated banner with floating labels for interfaces, APIs, realtime systems, and reliable delivery.</desc>
   <defs>
-    <linearGradient id="background" x1="40" y1="20" x2="1160" y2="340" gradientUnits="userSpaceOnUse">
+    <linearGradient id="background" x1="20" y1="12" x2="1180" y2="348" gradientUnits="userSpaceOnUse">
       <stop stop-color="#F8FAFC"/>
-      <stop offset="0.5" stop-color="#EFF6FF"/>
-      <stop offset="1" stop-color="#F8FAFC"/>
+      <stop offset=".46" stop-color="#EFF6FF"/>
+      <stop offset="1" stop-color="#FAF5FF"/>
     </linearGradient>
-    <linearGradient id="accent" x1="190" y1="100" x2="720" y2="250" gradientUnits="userSpaceOnUse">
+    <linearGradient id="titleGradient" x1="330" y1="80" x2="560" y2="126" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0891B2"/>
-      <stop offset="0.48" stop-color="#2563EB"/>
+      <stop offset=".5" stop-color="#2563EB"/>
       <stop offset="1" stop-color="#9333EA"/>
     </linearGradient>
-    <linearGradient id="route" x1="805" y1="108" x2="1092" y2="264" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0891B2" stop-opacity="0.14"/>
-      <stop offset="0.5" stop-color="#0891B2"/>
-      <stop offset="1" stop-color="#9333EA" stop-opacity="0.18"/>
+    <linearGradient id="coreGradient" x1="140" y1="80" x2="280" y2="215" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0891B2"/>
+      <stop offset=".5" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#9333EA"/>
     </linearGradient>
-    <radialGradient id="glowCyan">
-      <stop stop-color="#22D3EE" stop-opacity="0.15"/>
+    <linearGradient id="routeGradient" x1="20" y1="42" x2="398" y2="248" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0891B2" stop-opacity=".15"/>
+      <stop offset=".5" stop-color="#0891B2"/>
+      <stop offset="1" stop-color="#9333EA" stop-opacity=".18"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow">
+      <stop stop-color="#22D3EE" stop-opacity=".15"/>
       <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowViolet">
-      <stop stop-color="#A855F7" stop-opacity="0.12"/>
+    <radialGradient id="violetGlow">
+      <stop stop-color="#A855F7" stop-opacity=".11"/>
       <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#0F172A" stroke-opacity="0.055"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#0F172A" stroke-opacity=".045"/>
     </pattern>
-    <clipPath id="frame">
-      <rect width="1200" height="360" rx="28"/>
-    </clipPath>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#64748B" flood-opacity=".18"/>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="360" rx="28"/></clipPath>
   </defs>
   <style>
-    .route { stroke-dasharray: 9 13; animation: route 14s linear infinite; }
-    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 3.6s ease-in-out infinite; }
-    .pulse-delay { animation-delay: -1.8s; }
-    .float-a { animation: float-a 10s ease-in-out infinite alternate; }
-    .float-b { animation: float-b 12s ease-in-out infinite alternate; }
-    .scan { animation: scan 8s ease-in-out infinite; }
-    .cursor { animation: blink 1.1s steps(2, end) infinite; }
-    @keyframes route { to { stroke-dashoffset: -176; } }
-    @keyframes pulse { 0%, 100% { transform: scale(.82); opacity: .55; } 50% { transform: scale(1.18); opacity: 1; } }
-    @keyframes float-a { to { transform: translate(28px, 14px); } }
-    @keyframes float-b { to { transform: translate(-24px, -12px); } }
-    @keyframes scan { 0%, 12% { transform: translateX(-310px); opacity: 0; } 32%, 58% { opacity: .54; } 78%, 100% { transform: translateX(1150px); opacity: 0; } }
-    @keyframes blink { 0%, 45% { opacity: 1; } 46%, 100% { opacity: 0; } }
+    .route { stroke-dasharray: 8 12; animation: route 13s linear infinite; }
+    .ring { transform-box: fill-box; transform-origin: center; animation: breathe 5s ease-in-out infinite; }
+    .core { transform-box: fill-box; transform-origin: center; animation: core 4s ease-in-out infinite; }
+    .float-one { animation: float-one 7s ease-in-out infinite alternate; }
+    .float-two { animation: float-two 8.5s ease-in-out infinite alternate; }
+    .float-three { animation: float-three 9s ease-in-out infinite alternate; }
+    .float-four { animation: float-four 7.8s ease-in-out infinite alternate; }
+    .glow-one { animation: glow-one 12s ease-in-out infinite alternate; }
+    .glow-two { animation: glow-two 14s ease-in-out infinite alternate; }
+    .scan { animation: scan 9s ease-in-out infinite; }
+    .type-cover { animation: type 7.5s steps(34, end) infinite; }
+    .cursor { animation: blink 1.1s steps(2, end) infinite, type-cursor 7.5s steps(34, end) infinite; }
+    @keyframes route { to { stroke-dashoffset: -160; } }
+    @keyframes breathe { 0%, 100% { transform: scale(.92); opacity: .45; } 50% { transform: scale(1.08); opacity: .85; } }
+    @keyframes core { 0%, 100% { transform: translateY(0) scale(.98); } 50% { transform: translateY(-4px) scale(1.03); } }
+    @keyframes float-one { to { transform: translate(9px, -11px) rotate(.8deg); } }
+    @keyframes float-two { to { transform: translate(-8px, 10px) rotate(-1deg); } }
+    @keyframes float-three { to { transform: translate(11px, 8px) rotate(-.8deg); } }
+    @keyframes float-four { to { transform: translate(-10px, -9px) rotate(1deg); } }
+    @keyframes glow-one { to { transform: translate(35px, 18px); } }
+    @keyframes glow-two { to { transform: translate(-30px, -16px); } }
+    @keyframes scan { 0%, 16% { transform: translateX(-360px); opacity: 0; } 38%, 60% { opacity: .44; } 82%, 100% { transform: translateX(1260px); opacity: 0; } }
+    @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
+    @keyframes type { 0%, 16% { transform: translateX(270px); } 17%, 27% { transform: translateX(0); } 72%, 100% { transform: translateX(270px); } }
+    @keyframes type-cursor { 0%, 16% { transform: translateX(0); } 17%, 27% { transform: translateX(-265px); } 72%, 100% { transform: translateX(0); } }
     @media (prefers-reduced-motion: reduce) {
-      .route, .pulse, .float-a, .float-b, .scan, .cursor { animation: none !important; }
+      .route, .ring, .core, .float-one, .float-two, .float-three, .float-four, .glow-one, .glow-two, .scan, .type-cover, .cursor { animation: none !important; }
+      .type-cover { transform: translateX(270px); }
     }
   </style>
+
   <g clip-path="url(#frame)">
     <rect width="1200" height="360" rx="28" fill="url(#background)"/>
     <rect width="1200" height="360" fill="url(#grid)"/>
-    <circle class="float-a" cx="188" cy="50" r="245" fill="url(#glowCyan)"/>
-    <circle class="float-b" cx="1090" cy="330" r="260" fill="url(#glowViolet)"/>
-    <path class="scan" d="M-240 0L40 0L300 360H20L-240 0Z" fill="#0891B2" fill-opacity="0.03"/>
+    <circle class="glow-one" cx="120" cy="45" r="250" fill="url(#cyanGlow)"/>
+    <circle class="glow-two" cx="1120" cy="340" r="280" fill="url(#violetGlow)"/>
+    <path class="scan" d="M-300 0H-30L250 360H-20L-300 0Z" fill="#0891B2" fill-opacity=".028"/>
 
-    <g transform="translate(72 56)">
-      <rect width="196" height="30" rx="15" fill="#0891B2" fill-opacity="0.07" stroke="#0891B2" stroke-opacity="0.25"/>
-      <circle cx="18" cy="15" r="4" fill="#0891B2"/>
-      <text x="32" y="20" fill="#0E7490" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">FULL-STACK DEVELOPER</text>
+    <g transform="translate(72 48)">
+      <g>
+        <rect width="272" height="30" rx="15" fill="#0891B2" fill-opacity=".065" stroke="#0891B2" stroke-opacity=".25"/>
+        <circle cx="18" cy="15" r="4" fill="#059669"/>
+        <text x="32" y="20" fill="#0E7490" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.45">PRODUCT · ENGINEERING · DELIVERY</text>
+      </g>
 
-      <text x="0" y="98" fill="#0F172A" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="54" font-weight="750" letter-spacing="-1.8">WOLKENDO ARIAS</text>
-      <rect x="1" y="116" width="538" height="4" rx="2" fill="url(#accent)"/>
-      <text x="0" y="158" fill="#475569" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" font-weight="500">Interfaces · APIs · Realtime · Reliable delivery</text>
+      <text y="101" fill="#0F172A" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="760" letter-spacing="-2.2">
+        <tspan x="0">WOLKENDO</tspan>
+        <tspan x="326" fill="url(#titleGradient)">ARIAS</tspan>
+      </text>
+      <text x="1" y="140" fill="#334155" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="500">I design and ship digital products that hold up in production.</text>
+      <text x="1" y="168" fill="#475569" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13.5">Interfaces, business logic, data, integrations, testing, and deployment.</text>
 
-      <g transform="translate(0 196)">
-        <rect width="552" height="56" rx="12" fill="#FFFFFF" fill-opacity="0.78" stroke="#CBD5E1"/>
+      <g transform="translate(0 198)">
+        <rect width="556" height="58" rx="14" fill="#FFFFFF" stroke="#CBD5E1"/>
         <circle cx="22" cy="18" r="4" fill="#E11D48"/>
         <circle cx="36" cy="18" r="4" fill="#D97706"/>
         <circle cx="50" cy="18" r="4" fill="#059669"/>
-        <text x="22" y="40" fill="#94A3B8" font-family="Consolas, SFMono-Regular, monospace" font-size="12">$</text>
-        <text x="38" y="40" fill="#334155" font-family="Consolas, SFMono-Regular, monospace" font-size="12">ship --from idea --to production</text>
-        <rect class="cursor" x="286" y="30" width="7" height="13" rx="1" fill="#0891B2"/>
+        <text x="22" y="42" fill="#94A3B8" font-family="Consolas, SFMono-Regular, monospace" font-size="12">$</text>
+        <text x="39" y="42" fill="#334155" font-family="Consolas, SFMono-Regular, monospace" font-size="12">build --with clarity --ship reliably</text>
+        <rect class="type-cover" x="39" y="29" width="270" height="17" fill="#FFFFFF"/>
+        <rect class="cursor" x="304" y="31" width="7" height="14" rx="1" fill="#0891B2"/>
       </g>
+
+      <text x="1" y="294" fill="#475569" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">DISCOVER  ·  DESIGN  ·  BUILD  ·  SHIP</text>
     </g>
 
-    <g transform="translate(770 62)">
-      <rect width="356" height="240" rx="24" fill="#FFFFFF" fill-opacity="0.66" stroke="#CBD5E1"/>
-      <path d="M54 128C96 44 175 48 202 112C229 176 283 176 312 92" stroke="#CBD5E1" stroke-width="1.5"/>
-      <path class="route" d="M54 128C96 44 175 48 202 112C229 176 283 176 312 92" stroke="url(#route)" stroke-width="2.5" stroke-linecap="round"/>
-      <path d="M74 190C119 142 164 154 194 192C223 229 274 214 296 172" stroke="#CBD5E1" stroke-width="1.5"/>
-      <path class="route" d="M74 190C119 142 164 154 194 192C223 229 274 214 296 172" stroke="url(#route)" stroke-width="2.5" stroke-linecap="round" style="animation-direction:reverse"/>
+    <g transform="translate(726 38)" filter="url(#shadow)">
+      <rect width="414" height="284" rx="30" fill="#FFFFFF" fill-opacity=".82" stroke="#CBD5E1"/>
+      <rect x=".75" y=".75" width="412.5" height="282.5" rx="29.25" stroke="#0891B2" stroke-opacity=".08" stroke-width="1.5"/>
+      <circle cx="208" cy="144" r="92" stroke="#CBD5E1"/>
+      <circle class="ring" cx="208" cy="144" r="66" stroke="url(#coreGradient)" stroke-opacity=".38" stroke-width="1.5"/>
 
-      <g transform="translate(38 110)">
-        <circle r="19" fill="#CFFAFE" stroke="#0891B2" stroke-opacity="0.72"/>
-        <circle class="pulse" r="5" fill="#0891B2"/>
-      </g>
-      <g transform="translate(196 108)">
-        <circle r="25" fill="#DBEAFE" stroke="#2563EB" stroke-opacity="0.7"/>
-        <path d="M-8-6H8V6H-8V-6ZM-4-10V-6M4-10V-6M-4 6V10M4 6V10" stroke="#2563EB" stroke-width="1.8" stroke-linecap="round"/>
-      </g>
-      <g transform="translate(316 78)">
-        <circle r="18" fill="#F3E8FF" stroke="#9333EA" stroke-opacity="0.7"/>
-        <circle class="pulse pulse-delay" r="5" fill="#9333EA"/>
-      </g>
-      <g transform="translate(62 192)">
-        <circle r="17" fill="#CFFAFE" stroke="#0891B2" stroke-opacity="0.6"/>
-        <path d="M-6 1L-1 6L8-6" stroke="#0891B2" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
-      </g>
-      <g transform="translate(300 168)">
-        <circle r="18" fill="#F3E8FF" stroke="#9333EA" stroke-opacity="0.62"/>
-        <path d="M-7 4V-5H7V4M-4-5V-9H4V-5" stroke="#9333EA" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M92 70C128 82 149 102 169 124" stroke="#CBD5E1" stroke-width="1.5"/>
+      <path class="route" d="M92 70C128 82 149 102 169 124" stroke="url(#routeGradient)" stroke-width="2" stroke-linecap="round"/>
+      <path d="M319 78C282 85 257 104 241 126" stroke="#CBD5E1" stroke-width="1.5"/>
+      <path class="route" d="M319 78C282 85 257 104 241 126" stroke="url(#routeGradient)" stroke-width="2" stroke-linecap="round" style="animation-direction:reverse"/>
+      <path d="M92 216C131 207 154 187 172 165" stroke="#CBD5E1" stroke-width="1.5"/>
+      <path class="route" d="M92 216C131 207 154 187 172 165" stroke="url(#routeGradient)" stroke-width="2" stroke-linecap="round" style="animation-direction:reverse"/>
+      <path d="M321 215C281 207 257 187 240 165" stroke="#CBD5E1" stroke-width="1.5"/>
+      <path class="route" d="M321 215C281 207 257 187 240 165" stroke="url(#routeGradient)" stroke-width="2" stroke-linecap="round"/>
+
+      <g transform="translate(208 144)">
+        <g class="core">
+        <circle r="43" fill="#FFFFFF" stroke="url(#coreGradient)" stroke-width="2"/>
+        <circle r="34" fill="url(#coreGradient)" fill-opacity=".09"/>
+        <text x="0" y="5" text-anchor="middle" fill="#1E3A8A" font-family="Consolas, SFMono-Regular, monospace" font-size="20" font-weight="700">&lt;/&gt;</text>
+        <text x="0" y="23" text-anchor="middle" fill="#475569" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="7.5" font-weight="700" letter-spacing="1.2">FULL STACK</text>
+        </g>
       </g>
 
-      <g transform="translate(38 28)">
+      <g transform="translate(24 48)">
+        <g class="float-one">
+          <rect width="126" height="38" rx="19" fill="#ECFEFF" stroke="#0891B2" stroke-opacity=".34"/>
+          <circle cx="18" cy="19" r="4" fill="#0891B2"/>
+          <text x="31" y="24" fill="#155E75" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.1">INTERFACES</text>
+        </g>
+      </g>
+      <g transform="translate(296 58)">
+        <g class="float-two">
+          <rect width="92" height="38" rx="19" fill="#EFF6FF" stroke="#2563EB" stroke-opacity=".34"/>
+          <circle cx="18" cy="19" r="4" fill="#2563EB"/>
+          <text x="31" y="24" fill="#1E40AF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.2">APIs</text>
+        </g>
+      </g>
+      <g transform="translate(26 198)">
+        <g class="float-three">
+          <rect width="116" height="38" rx="19" fill="#ECFDF5" stroke="#059669" stroke-opacity=".3"/>
+          <circle cx="18" cy="19" r="4" fill="#059669"/>
+          <text x="31" y="24" fill="#065F46" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.1">REALTIME</text>
+        </g>
+      </g>
+      <g transform="translate(282 198)">
+        <g class="float-four">
+          <rect width="108" height="38" rx="19" fill="#FAF5FF" stroke="#9333EA" stroke-opacity=".32"/>
+          <circle cx="18" cy="19" r="4" fill="#9333EA"/>
+          <text x="31" y="24" fill="#6B21A8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1">DELIVERY</text>
+        </g>
+      </g>
+
+      <g transform="translate(24 18)">
         <circle cx="4" cy="4" r="4" fill="#059669"/>
-        <text x="16" y="9" fill="#64748B" font-family="Consolas, SFMono-Regular, monospace" font-size="11" letter-spacing="1.2">SYSTEMS ONLINE</text>
+        <text x="16" y="8" fill="#475569" font-family="Consolas, SFMono-Regular, monospace" font-size="8.5" letter-spacing="1.25">PRODUCT SYSTEM / ONLINE</text>
       </g>
     </g>
-    <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="27.25" stroke="#0891B2" stroke-opacity="0.17" stroke-width="1.5"/>
+    <rect x=".75" y=".75" width="1198.5" height="358.5" rx="27.25" stroke="#0891B2" stroke-opacity=".14" stroke-width="1.5"/>
   </g>
 </svg>
