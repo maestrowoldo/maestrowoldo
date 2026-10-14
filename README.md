@@ -8,7 +8,15 @@
   <img src="./assets/hero-dark.svg" width="100%" alt="Wolkendo Arias, full-stack developer building interfaces, APIs, real-time systems, and reliable delivery">
 </picture>
 
-<h1>Full-Stack Developer building production-ready web products</h1>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1100&color=67E8F9&center=true&vCenter=true&width=850&height=50&lines=I+build+the+product%2C+not+just+the+screen.;Full-Stack+Developer+%7C+React+%7C+Next.js+%7C+Node.js;From+business+needs+to+production-ready+software." alt="Animated introduction: full-stack development, from idea to production">
+
+<br>
+
+
+  <img src="https://img.shields.io/badge/ROLE-FULL--STACK_DEVELOPER-0F172A?style=flat-square&labelColor=111827&color=0891B2" alt="Role: Full-Stack Developer">
+  <img src="https://img.shields.io/badge/FOCUS-END--TO--END_PRODUCTS-0F172A?style=flat-square&labelColor=111827&color=0891B2" alt="Focus: End-to-end products">
+  <img src="https://img.shields.io/badge/BASE-S%C3%83O_PAULO%2C_BR-0F172A?style=flat-square&labelColor=111827&color=DB2777" alt="Based in São Paulo, Brazil">
 
 <p>
   <strong>Wolkendo Arias · Full-Stack Developer at Prime Secure</strong>
@@ -30,7 +38,7 @@
   <a href="mailto:maestrowoldo97@gmail.com"><strong>Email</strong></a>
 </p>
 
-</div>
+> **My approach:** Understand the problem. Design the experience. Build the system. Ship with confidence.
 
 ---
 
@@ -89,14 +97,42 @@ An internal time-tracking solution developed during my internship at the São Pa
 
 ---
 
-## Core capabilities
 
-- **Interfaces & product:** TypeScript, React, Next.js, Tailwind CSS, responsive UI, accessibility, interaction design, and Figma.
-- **APIs & data:** Node.js, REST APIs, PostgreSQL, Prisma, authentication, third-party integrations, and Zod validation.
-- **Quality & delivery:** Vitest, Jest, GitHub Actions, Docker, Vercel, AWS, secure configuration, and production deployment.
-- **Automation & insights:** Power Apps, Power Automate, SharePoint, Power BI, workflow design, and operational reporting.
+## Core Toolkit
 
-My background across software engineering, automation, Business Intelligence, and visual design helps me connect technical decisions with user experience and business needs.
+### Product Interfaces
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### APIs and Data
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+### Quality and Delivery
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+
+### Automation and Insights
+
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
 
 ---
 
@@ -106,13 +142,10 @@ My background across software engineering, automation, Business Intelligence, an
 *November 2025 — Present*<br>
 Building React and Next.js interfaces, Node.js APIs, relational data flows, validation, automated tests, and production delivery.
 
-**IT Support Analyst · DXC Technology**<br>
-*September 2025 — November 2025*<br>
-Supported onboarding, offboarding, hardware, software, and infrastructure operations in an enterprise environment.
-
-**IT Intern · São Paulo Court of Justice**<br>
-*September 2024 — September 2025*<br>
-Developed process automation, Power Platform applications, Power BI reporting, SharePoint solutions, and Bizagi workflows.
+<p>
+  <strong>Education:</strong> Bachelor's degree in Computer Science<br>
+  <strong>Languages:</strong> Portuguese, Ingles, French, and Haitian Creole
+</p>
 
 ---
 
