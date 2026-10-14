@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/ROLE-FULL--STACK_DEVELOPER-0F172A?style=flat-square&labelColor=111827&color=0891B2" alt="Role: Full-Stack Developer">
   <img src="https://img.shields.io/badge/FOCUS-END--TO--END_PRODUCTS-0F172A?style=flat-square&labelColor=111827&color=0891B2" alt="Focus: End-to-end products">
   <img src="https://img.shields.io/badge/BASE-S%C3%83O_PAULO%2C_BR-0F172A?style=flat-square&labelColor=111827&color=DB2777" alt="Based in São Paulo, Brazil">
+  
+<br>
 
 <p>
   <a href="https://wolkendo.dev/en">
@@ -56,7 +58,7 @@ Is a responsive one-to-one messaging product that lets each participant write an
     <img src="./assets/nexochat-demo.gif" width="100%" alt="NexoChat demonstration showing private messaging, automatic translation, presence, and message status">
   </picture>
 </a>
-
+<br>
 <p>
   <a href="https://nexochat.vercel.app/">
     <img src="https://img.shields.io/badge/OPEN_LIVE_APP-0891B2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open the live NexoChat application">
