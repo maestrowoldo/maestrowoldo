@@ -1,11 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg">
-  <source media="(max-width: 640px) and (prefers-color-scheme: light)" srcset="./assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-dark.svg" width="100%" alt="Wolkendo Arias, full-stack developer building interfaces, APIs, real-time systems, and reliable delivery">
+  <img src="./assets/hero-dark.svg" width="100%" alt="Wolkendo Arias — Full-Stack Developer building interfaces, APIs, real-time systems, and production-ready products">
 </picture>
 
   <br>
@@ -19,24 +17,28 @@
   <img src="https://img.shields.io/badge/BASE-S%C3%83O_PAULO%2C_BR-0F172A?style=flat-square&labelColor=111827&color=DB2777" alt="Based in São Paulo, Brazil">
 
 <p>
-  <strong>Wolkendo Arias · Full-Stack Developer at Prime Secure</strong>
+  <a href="https://wolkendo.dev/en">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=67E8F9" alt="Visit Wolkendo Arias's portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/wolkendo-arias">
+    <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&amp;logo=linkedin&amp;logoColor=67E8F9" alt="Connect with Wolkendo Arias on LinkedIn">
+  </a>
+  <a href="mailto:maestrowoldo97@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=F472B6" alt="Email Wolkendo Arias">
+  </a>
 </p>
 
-<p>
-  I take products from interface and business logic to data, integrations, testing, and deployment.
-</p>
+</div>
 
-<p>
-  <strong>São Paulo, Brazil</strong> · Available for remote opportunities worldwide
-</p>
+---
 
-<p>
-  <a href="https://wolkendo.dev/en"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/wolkendo-arias"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:maestrowoldo97@gmail.com"><strong>Email</strong></a>
-</p>
+## I build the product, not just the screen
+
+I am a **Full-Stack Developer** with a bachelor's degree in Computer Science, building web products from interface and business logic to data, integrations, testing, and deployment.
+
+My core stack is **TypeScript, React, Next.js, Node.js, and PostgreSQL**. I care about the details that make software dependable in production: clear architecture, strong validation, secure authentication, automated delivery, and interfaces that feel intentional.
+
+My background in **automation, Business Intelligence, and visual design** helps me connect engineering decisions with user experience and real operational needs.
 
 > **My approach:** Understand the problem. Design the experience. Build the system. Ship with confidence.
 
@@ -44,9 +46,9 @@
 
 ## Selected work
 
-### NexoChat — Private conversations across languages
+### NexoChat — Private real-time chat with automatic translation
 
-[NexoChat](https://nexochat.vercel.app/) is a responsive one-to-one messaging product that lets each participant write and receive messages in their preferred language. I designed and implemented the experience end to end, from product flows and real-time behavior to security, data, integrations, tests, and deployment.
+Is a responsive one-to-one messaging product that lets each participant write and receive messages in their preferred language. I designed and implemented the experience end to end, from product flows and real-time behavior to security, data, integrations, tests, and deployment.
 
 <a href="https://nexochat.vercel.app/">
   <picture>
@@ -55,33 +57,37 @@
   </picture>
 </a>
 
-<p align="center">
-  <sub>The demo shows a Portuguese interface with Portuguese-to-English translation. A static preview is used when reduced motion is preferred.</sub>
+<p>
+  <a href="https://nexochat.vercel.app/">
+    <img src="https://img.shields.io/badge/OPEN_LIVE_APP-0891B2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open the live NexoChat application">
+  </a>
+  <img src="https://img.shields.io/badge/SOURCE-PRIVATE-334155?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="NexoChat source repository is private">
 </p>
 
 **Engineering highlights**
 
-- Built real-time messaging, online presence, delivery states, and read states with Ably and backend-issued authentication.
-- Added automatic language detection and translation through the DeepL API while preserving the original and translated message history.
-- Secured the application with signed JWTs in HttpOnly cookies, CSRF protection, route guards, password hashing, and IP rate limiting.
-- Modeled relational data with PostgreSQL and Prisma, with shared client/server validation through Zod.
-- Integrated Cloudinary for media and Resend for transactional email, with secrets managed through Infisical.
-- Established automated quality gates in GitHub Actions for tested preview and production deployments on Vercel.
+- Real-time messaging and presence with **Ably**, with backend-issued authentication.
+- Automatic language detection and translation through the **DeepL API**.
+- Authentication with signed **JWTs in HttpOnly cookies**, CSRF protection, route guards, and IP rate limiting.
+- Shared client/server validation with **Zod**, relational persistence with **PostgreSQL and Prisma**, and password hashing with **bcrypt**.
+- Media management with **Cloudinary**, transactional email with **Resend**, and secrets management with **Infisical**.
+- GitHub Actions quality gate controlling preview and production deployments on **Vercel**.
 
-**Stack:** Next.js 16, TypeScript, PostgreSQL, Prisma, Tailwind CSS, Ably, DeepL, Cloudinary, Resend
-
-**[Open the live product →](https://nexochat.vercel.app/)** · Source code is private
+`Next.js 16` · `TypeScript` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `Ably` · `DeepL` · `Cloudinary` · `Resend`
 
 ---
 
-### Personal Portfolio — Professional storytelling through product design
+### Personal Portfolio — Engineering, process, and case studies
 
-A multilingual portfolio that presents my experience, delivery process, and selected work through a responsive and accessible interface.
+A multilingual portfolio that presents my experience, delivery process, and selected work through a responsive, motion-led interface.
 
-**Contribution:** Product direction, visual design, front-end development, content architecture, performance, and deployment<br>
-**Stack:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion
+- **Focus:** Clear professional positioning, project storytelling, accessibility, performance, and responsive UX.
+- **Built with:** Next.js, React, TypeScript, Tailwind CSS, and Framer Motion.
+- **My role:** Product direction, visual design, development, content structure, and deployment.
 
-**[Explore the portfolio →](https://wolkendo.dev/en)**
+<a href="https://wolkendo.dev/en/">
+  <img src="https://img.shields.io/badge/EXPLORE_THE_PORTFOLIO-0891B2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open the Portfolio">
+</a>
 
 ---
 
@@ -89,11 +95,12 @@ A multilingual portfolio that presents my experience, delivery process, and sele
 
 An internal time-tracking solution developed during my internship at the São Paulo Court of Justice. It standardized attendance records, simplified operational follow-up, and connected reporting with automated communication.
 
-**Contribution:** Requirements analysis, application development, business rules, integrations, UI design, validation, and documentation<br>
-**Stack:** Power Apps, SharePoint, Power Automate, Power BI, Microsoft 365<br>
-**Availability:** Public case documentation and screenshots; the original corporate application is not distributed
+- **Capabilities:** Entry and exit records, work-mode tracking, management filters, Power BI reporting, and automated email notifications.
+- **Built with:** Power Apps, SharePoint, Power Automate, Power BI, and Microsoft 365.
+- **My contribution:** Requirements analysis, application development, integrations, business rules, UI design, validation, and documentation.
+- **Availability:** Public case documentation and screenshots; the original corporate application is not distributed.
 
-**[View the documented case →](https://github.com/maestrowoldo/Registro-de-Ponto)**
+**[View the documented case →](https://github.com/maestrowoldo/Aplicativo---Ponto---Power-Apps)**
 
 ---
 
@@ -136,44 +143,45 @@ An internal time-tracking solution developed during my internship at the São Pa
 
 ---
 
-## Experience
+## Experience at a glance
 
-**Full-Stack Developer · Prime Secure**<br>
-*November 2025 — Present*<br>
-Building React and Next.js interfaces, Node.js APIs, relational data flows, validation, automated tests, and production delivery.
+| Period | Role | Focus |
+|---|---|---|
+| **Nov 2025 — Present** | **Full-Stack Developer · Prime Secure** | React and Next.js interfaces, Node.js APIs, relational data, validation, testing, and deployment. |
+| **Sep 2025 — Nov 2025** | **IT Support Analyst · DXC Technology** | Onboarding, offboarding, hardware and software support, and infrastructure operations. |
+| **Sep 2024 — Sep 2025** | **IT Intern · São Paulo Court of Justice** | Process automation, Power Platform applications, Power BI, SharePoint, and Bizagi. |
 
 <p>
   <strong>Education:</strong> Bachelor's degree in Computer Science<br>
-  <strong>Languages:</strong> Portuguese, Ingles, French, and Haitian Creole
+  <strong>Languages:</strong> Portuguese, English, French, and Haitian Creole
 </p>
 
 ---
 
-## Education and languages
+## GitHub activity
 
-**Bachelor's degree in Computer Science**<br>
-Universidade Cruzeiro do Sul · Completed December 2025
+<div align="center">
 
-**Languages**
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maestrowoldo&amp;theme=tokyonight" alt="Wolkendo Arias's GitHub contribution summary">
 
-- French and Haitian Creole — Native
-- Portuguese — Fluent
-- English — Intermediate
+</div>
 
 ---
 
 <div align="center">
 
-<h2>Open to full-stack opportunities</h2>
+### Have a product, integration, or workflow to build?
+
+I am open to conversations about **full-stack development, web products, APIs, automation, and technical collaboration**.
 
 <p>
-  I welcome conversations with recruiters and engineering teams hiring for remote full-stack roles worldwide, especially where product thinking, reliable systems, and end-to-end ownership matter.
-</p>
-
-<p>
-  <a href="mailto:maestrowoldo97@gmail.com"><strong>Start a conversation by email</strong></a>
+  <a href="mailto:maestrowoldo97@gmail.com"><strong>Email me</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/wolkendo-arias"><strong>Connect on LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://wolkendo.dev/en"><strong>View my portfolio</strong></a>
 </p>
+
+<sub>Clear interfaces · Maintainable systems · Reliable delivery</sub>
 
 </div>
