@@ -6,7 +6,15 @@
   <img src="./assets/hero-dark.svg" width="100%" alt="Wolkendo Arias — Full-Stack Developer building interfaces, APIs, real-time systems, and production-ready products">
 </picture>
 
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1100&color=67E8F9&center=true&vCenter=true&width=850&height=50&lines=I+build+the+product%2C+not+just+the+screen.;Full-Stack+Developer+%7C+React+%7C+Next.js+%7C+Node.js;From+business+needs+to+production-ready+software." alt="Animated introduction: full-stack development, from idea to production">
+
 <br>
+
+
+  <img src="https://img.shields.io/badge/ROLE-FULL--STACK_DEVELOPER-0F172A?style=flat-square&labelColor=111827&color=0891B2" alt="Role: Full-Stack Developer">
+  <img src="https://img.shields.io/badge/FOCUS-END--TO--END_PRODUCTS-0F172A?style=flat-square&labelColor=111827&color=0891B2" alt="Focus: End-to-end products">
+  <img src="https://img.shields.io/badge/BASE-S%C3%83O_PAULO%2C_BR-0F172A?style=flat-square&labelColor=111827&color=DB2777" alt="Based in São Paulo, Brazil">
 
 <p>
   <a href="https://wolkendo.dev/en">
@@ -18,11 +26,6 @@
   <a href="mailto:maestrowoldo97@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=F472B6" alt="Email Wolkendo Arias">
   </a>
-</p>
-
-<p>
-  <strong>Full-Stack Developer at Prime Secure</strong><br>
-  São Paulo, Brazil · Portuguese, French, and Haitian Creole
 </p>
 
 </div>
@@ -37,7 +40,7 @@ My core stack is **TypeScript, React, Next.js, Node.js, and PostgreSQL**. I care
 
 My background in **automation, Business Intelligence, and visual design** helps me connect engineering decisions with user experience and real operational needs.
 
-> I turn business context into maintainable software that teams can confidently use and evolve.
+> **My approach:** Understand the problem. Design the experience. Build the system. Ship with confidence.
 
 ---
 
@@ -96,39 +99,42 @@ An internal time-tracking solution developed during my internship at the São Pa
 
 ---
 
-## Core toolkit
 
-**Product interfaces**
+## Core Toolkit
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E)
+### Product Interfaces
 
-**APIs and data**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![REST API](https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=FFFFFF)
-![Zod](https://img.shields.io/badge/Zod-111827?style=flat-square&logo=zod&logoColor=3E67B1)
+### APIs and Data
 
-**Quality and delivery**
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
-![Vitest](https://img.shields.io/badge/Vitest-111827?style=flat-square&logo=vitest&logoColor=6E9F18)
-![Jest](https://img.shields.io/badge/Jest-111827?style=flat-square&logo=jest&logoColor=C21325)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=FFFFFF)
-![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+### Quality and Delivery
 
-**Automation and insights**
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
-![Power Apps](https://img.shields.io/badge/Power_Apps-111827?style=flat-square&logo=powerapps&logoColor=742774)
-![Power Automate](https://img.shields.io/badge/Power_Automate-111827?style=flat-square&logo=powerautomate&logoColor=0066FF)
-![SharePoint](https://img.shields.io/badge/SharePoint-111827?style=flat-square&logo=microsoftsharepoint&logoColor=038387)
-![Power BI](https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811)
+### Automation and Insights
+
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
 
 ---
 
@@ -142,7 +148,7 @@ An internal time-tracking solution developed during my internship at the São Pa
 
 <p>
   <strong>Education:</strong> Bachelor's degree in Computer Science<br>
-  <strong>Languages:</strong> Portuguese, French, and Haitian Creole
+  <strong>Languages:</strong> Portuguese, Ingles, French, and Haitian Creole
 </p>
 
 ---
